@@ -15,14 +15,12 @@ a {
   z-index: 10;
 }
 
-/* Montior and Larger */
 @media screen and (min-width: 1800px) {
   canvas {
     margin-top: 100px;
   }
 }
 
-/* Large Smartphone (Vertical) */
 @media screen and (max-width: 500px) {
   canvas {
     width: 100%;
